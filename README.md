@@ -12,3 +12,6 @@ by shooting them.
 To test these changes one needs to only load in the map and play the scene. The marbles placed in the terrain should act
 like the normal obstacles so the player and the ai monsters are unable to go through it and can collide with them. 
 This also applies to the gun from player and whenever he shoots something.
+
+To test the player's ability to regenerate health make sure to take some damage from the mobs and then shoot at them
+This should result in a change in health that will be visable by a change in the health bar.
