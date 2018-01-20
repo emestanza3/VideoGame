@@ -1,5 +1,13 @@
 # VideoGame
 
+Eduardo Mestanza
+eduardomestanza_96@gatech.edu
+emestanza3
+
+All requierments should be done and ready.
+
+no additional build instructions needed or assests bundles were used.
+
 This file contains all of the work done for milestone 0 in which I edited the video game tutorial for the survival shooter.
 In it is my own attempt to complete the initial tutorial given by unity as well as some slight changes. 
 First My name Eduardo Mestanza will be displayed on the bottom left corenr above the health bar
@@ -15,3 +23,7 @@ This also applies to the gun from player and whenever he shoots something.
 
 To test the player's ability to regenerate health make sure to take some damage from the mobs and then shoot at them
 This should result in a change in health that will be visable by a change in the health bar.
+
+From root directory there should be the readme and also the top level file called milestone0, open it and in then open the
+assests folder where the scenes folder can be found opening the scene level01.unity should prompt unity to open the 
+scene for this assignment.
